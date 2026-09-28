@@ -20,15 +20,15 @@ Africa faces a complex energy transition challenge. While many countries possess
 
 The **objective** of this project is to evaluate:
 
-* how energy development differs across African regions,
-* whether renewable energy adoption translates into broader sustainability outcomes,
-* the relationship between economic growth and emissions,
-* and whether foreign financial assistance meaningfully supports renewable energy transition.
+* How energy development differs across African regions,
+* How renewable energy adoption translates into broader sustainability outcomes,
+* The relationship between economic growth and emissions amongst African Countries,
+* The role of foreign financial assistance in supporting renewable energy transition.
 
 
 #### Key Challenges
 
-Several structural and analytical challenges emerged throughout the project:
+Several structural and analytical challenges that emerged in the course of the project includes:
 
 * Missing values across multiple sustainability indicators
 * Strong regional inequalities in development and infrastructure
@@ -42,7 +42,7 @@ The dataset contains African country-level sustainability indicators spanning 20
 
 *Dataset Name:* Global Data on Sustainable Energy (2000-2020)  
 
-*Domain:* Semiconductor Manufacturing
+*Domain:* Energy and Sustainability Analysis
 
 *Dataset Source:*
 [Global Data on Sustainable Energy](https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy)  
@@ -65,7 +65,8 @@ The dataset contains African country-level sustainability indicators spanning 20
 
 ### Geographic Coverage
 
- African countries only Grouped into:
+ African countries only.    
+ Grouped into:
 
   * North Africa
   * West Africa
@@ -103,8 +104,9 @@ The dataset contains African country-level sustainability indicators spanning 20
 
 The analysis was conducted in multiple stages:
 
-#### 1. Data Cleaning & Preparation
+#### 1. Data Sourcing, Cleaning & Preparation
 
+* Loading of Dataset
 * Handling missing values
 * Feature standardization
 * Regional grouping
@@ -142,9 +144,9 @@ Generated:
 * Comparative bar charts
 
 
-## Key Assumptions
+## Key Initial Assumptions
 
-The project assumes that:
+The initial assumptions of the project includes:
 
 * Renewable electricity share reflects national electricity generation structure
 * Financial assistance contributes to sustainable energy development
@@ -155,7 +157,9 @@ The project assumes that:
 
 ## Key Findings & Observations
 
-#### 1. Renewable Energy Share Does Not Always Mean Energy Modernization
+After the analysis the following observations were made:
+
+#### 1. High Renewable Share Does Not Mean Clean Cooking  or Energy Mordenization
 
 Many African countries exhibit high renewable energy shares because of:
 
@@ -211,7 +215,7 @@ High renewable share did not necessarily imply:
 
 ## Key Figures
 
-The project includes:
+The project includes the following analysis:
 
 * CO₂ Emissions vs Economic Development
 * CO₂ Emissions vs Energy Intensity
